@@ -1,5 +1,5 @@
 import React, {FC} from 'react';
-import {Button, Card, Col, Layout, Row} from 'antd';
+import {Card, Col, Layout, Row} from 'antd';
 import './index.less';
 import {Content} from "antd/es/layout/layout";
 import Title from "antd/es/typography/Title";

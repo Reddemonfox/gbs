@@ -1,7 +1,6 @@
-import React, {FC} from 'react';
-import {Button, Layout, Menu} from 'antd';
+import React from 'react';
+import {Layout, Menu} from 'antd';
 import './index.less';
-import HomePage from "../../pages/Home";
 import {Route, Switch} from "react-router-dom";
 import Sider from "antd/es/layout/Sider";
 import {Content} from "antd/es/layout/layout";

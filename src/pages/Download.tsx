@@ -1,5 +1,4 @@
 import React, {FC} from 'react';
-import {Button} from 'antd';
 import './index.less';
 
 const DownloadPage: FC = () => (
