@@ -8,5 +8,6 @@ const DownloadPage: FC = () => (
     </div>
 );
 
+
 export default DownloadPage;
 
