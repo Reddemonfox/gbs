@@ -19,7 +19,7 @@ const KPIDashboardPage: FC = () => (
                     </Row>
                     <Row justify={'center'} gutter={[20, 20]}>
                         <Col>
-                            <NavLink to={'/kpi'}>
+                            <NavLink to={'/download'}>
                                 <Card className={'center-cards'}>
                                     <Title style={{marginBottom: '0'}}>
                                         District Wise Performance
